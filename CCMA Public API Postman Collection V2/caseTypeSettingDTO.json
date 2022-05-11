@@ -1,0 +1,22 @@
+{
+    "name": "API Demo Setting",
+    "description": "API Demo Setting description",
+    "classification": {
+        "id": "ce2f6c88-1f47-46d9-b608-357458d12ae6",
+        "name": "Enterprise"
+    },
+    "settings": {
+        "duration": null,
+        "defaultAssignee": null,
+        "defaultAssigneeGroup": null,
+        "email": null,
+        "caseSLAs": []
+    },
+    "caseIdGenerator": {
+        "id": "e1f90ecc-52c6-4f4b-aa23-9f706bf84756",
+        "prefix": uniquePrefix
+        "suffix": "apidasfs",
+        "sequenceName": "Numeric generator",
+        "customGeneratorLogicEndpoint": null
+    }
+}
